@@ -7,8 +7,8 @@ devMode = true
 token=yeqin
 
 # 测试用的账号
-appId=wx066f26db4cd855a6
-appSecret=7e5c3f009506c85a407d243786463b5f
+appId=wx17f576a6b96ecc41
+appSecret=8c838db02740f068f30e864cf22d544f
 webAppId=___web appid___
 webAppSecret=_________web appSecret____
 
