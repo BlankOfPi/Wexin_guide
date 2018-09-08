@@ -64,16 +64,7 @@ weixin_guide 是基于jfinal_weixin SDK开发的实战项目。
 - 依赖jackson或fastjson
 
 
-
-## 6、更多支持
-- 交流群：[![QQ](http://pub.idqqimg.com/wpa/images/group.png)](https://jq.qq.com/?_wv=1027&k=47koFFR)(备注项目名称、进群发广告T)
-- Email：javen205@126.com
-
-<img src="http://img.blog.csdn.net/20170425211154361?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvenl3X2phdmE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = "200" alt="如果对你有帮助，请随意打赏支持" align=center />
-
-
-
-## 7、鸣谢
+## 6、鸣谢
 
 - [JFinal](http://git.oschina.net/jfinal/jfinal)
 - [Jfinal-weixin](http://git.oschina.net/jfinal/jfinal-weixin)
